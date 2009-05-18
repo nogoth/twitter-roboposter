@@ -1,5 +1,6 @@
-require a file called file_1
+uses Net::Twitter, Data::Dumper,YAML::XS
 
-* TODO
+require a file_1 right now to read various posts you are going to make 
+nothing to fancy or too smart. 
 
-create a yaml file that parse out the name and password 
+ 
